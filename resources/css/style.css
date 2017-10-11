@@ -1,0 +1,38 @@
+html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Verdana;
+  font-weight: normal;
+  color: white;
+  background-color: black;
+  text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+  font-family: Verdana
+}
+
+a {
+  text-decoration: none;
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+#video p {
+  color: gray;
+  font-size: 21px;
+}
+
+#phone div img {
+  margin-top: 20px;
+}
+
+#footer p {
+  color: gray;
+  text-align: right;
+}
